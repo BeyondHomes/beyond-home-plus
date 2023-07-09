@@ -1,0 +1,16 @@
+.campo.phone > p {
+    line-height: 1;
+    margin-bottom: 4px;
+}
+
+.travel-date > p {
+    display: none;
+}
+
+.modal-availability .hidden-section.open {
+    display: block;
+}
+
+.modal-availability .row.end-row input {
+    text-align: center;
+}
